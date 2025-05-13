@@ -21,10 +21,8 @@ This project provides a comprehensive sales analysis of a pizza restaurant using
 Key Insights:
 - Peak Sales Periods: Highest sales occur during weekends, especially on Saturdays.
 - Top-Selling Pizza: The Classic Deluxe Pizza leads in total quantity sold and revenue.
-- Least Popular Pizza: The Brie Carre Pizza has the lowest sales figures.
 - Popular Pizza Size: Large-sized pizzas are the most ordered, contributing significantly to revenue.
 - Sales by Category: The Classic category dominates sales, while the Veggie category lags behind.
-- Order Timing: Most orders are placed between 12:00 PM and 1:00 PM.
 - Monthly Trends: July records the highest revenue, whereas October sees the lowest.
 
 Recommendations:
@@ -33,7 +31,7 @@ Recommendations:
 - Menu Optimization: Consider replacing or removing consistently low-performing pizzas.
 - Marketing Focus: Target ads and campaigns around high-traffic hours and top revenue months.
 
-## 🛠 Tools & Technologies
+## 🛠 Tools
 
 - Power BI – For data visualization and dashboard creation.
 - SQL – For data extraction and transformation.
